@@ -1,0 +1,16 @@
+{
+  "identifier": {
+    "queueManager": "TRANS_ADV_QM",
+    "queues": [
+      "AMQ.5BB33A532131B10E"
+    ]
+  },
+  "archiveType": "installation",
+  "dcVersion": "1.9.9",
+  "archiveName": "Installation1",
+  "domain": "messaging",
+  "host": "cpiAPM.mulvm.ie.ibm.com",
+  "isVirtual": "false",
+  "assessmentUnitName": "TRANS_ADV_QM",
+  "middleware": "mq"
+}

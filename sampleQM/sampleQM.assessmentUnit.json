@@ -1,0 +1,18 @@
+{
+  "identifier": {
+    "queueManager": "sampleQM",
+    "queues": [
+      "AMQ.5C49E01124C4296E",
+      "JOHNCQ",
+      "MYQUEUE"
+    ]
+  },
+  "archiveType": "installation",
+  "dcVersion": "1.9.9",
+  "archiveName": "Installation1",
+  "domain": "messaging",
+  "host": "cpiAPM.mulvm.ie.ibm.com",
+  "isVirtual": "false",
+  "assessmentUnitName": "sampleQM",
+  "middleware": "mq"
+}

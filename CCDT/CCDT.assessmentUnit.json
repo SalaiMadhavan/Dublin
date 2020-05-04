@@ -1,0 +1,17 @@
+{
+  "identifier": {
+    "queueManager": "CCDT",
+    "queues": [
+      "AMQ.5C546AED22BF11A6",
+      "Q1"
+    ]
+  },
+  "archiveType": "installation",
+  "dcVersion": "1.9.9",
+  "archiveName": "Installation1",
+  "domain": "messaging",
+  "host": "cpiAPM.mulvm.ie.ibm.com",
+  "isVirtual": "false",
+  "assessmentUnitName": "CCDT",
+  "middleware": "mq"
+}

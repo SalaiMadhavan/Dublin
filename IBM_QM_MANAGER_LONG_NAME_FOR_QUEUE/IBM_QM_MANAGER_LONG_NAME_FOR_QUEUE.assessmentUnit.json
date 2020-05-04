@@ -1,0 +1,16 @@
+{
+  "identifier": {
+    "queueManager": "IBM_QM_MANAGER_LONG_NAME_FOR_QUEUE",
+    "queues": [
+      "AMQ.5BE2D07422BC0BCA"
+    ]
+  },
+  "archiveType": "installation",
+  "dcVersion": "1.9.9",
+  "archiveName": "Installation1",
+  "domain": "messaging",
+  "host": "cpiAPM.mulvm.ie.ibm.com",
+  "isVirtual": "false",
+  "assessmentUnitName": "IBM_QM_MANAGER_LONG_NAME_FOR_QUEUE",
+  "middleware": "mq"
+}
